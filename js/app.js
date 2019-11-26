@@ -60,7 +60,7 @@ function changeState() {
     links[index].classList.add('active');
     sections.forEach((section) => section.classList.remove('active-section'));
     sections[index].classList.add('active-section');
-  }
+};
 
 //changes class on scroll
 
