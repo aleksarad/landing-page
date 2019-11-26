@@ -16,11 +16,7 @@ function navNames(arr){
 
 navNames(navItems);
 
-/**
- * End Helper Functions
- * Begin Main Functions
- * 
-*/
+/*Main Functions*/ 
 
 //build nav 
 
