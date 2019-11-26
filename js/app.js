@@ -1,17 +1,11 @@
-/**
- * Global Variables
- */
+/*Variables*/ 
 
 const sectionName = document.querySelectorAll('section[data-nav]');
 const sections = document.querySelectorAll('section');
 const navBar = document.querySelector('#navbar__list');
 let navItems = [];
 
-/**
- * End Global Variables
- * Start Helper Functions
- * 
-*/
+/*Helper Functions*/ 
 
 //creates an array using section names
 function navNames(arr){
